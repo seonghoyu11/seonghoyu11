@@ -2,7 +2,7 @@
 
 ## Contacts
 [![NYU Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:sy4209@nyu.edu)
-[![Gmail](https://img.shields.io/badge/Email-Contact-informational)](mailto:seonghoyu11@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seonghoyu11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seongho-yoo-06a821328/)
 
 ## About Me
