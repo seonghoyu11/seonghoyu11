@@ -13,7 +13,7 @@
 - CSCI-UA 474 (Software Engineering
 - MATH-UA 185 (Probability and Statistics)
 
-## Studied...
+## Courses Taken So Far...
 - CSCI-UA 310 (Basic Algorithms)
 - CSCI-UA 201 (Computer Systems Organization)
 - CS-UY 1134 (Data Structures and Algorithms)
@@ -29,12 +29,12 @@
 
 ### Tools / Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 <!--
 **seonghoyu11/seonghoyu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
