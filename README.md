@@ -1,7 +1,8 @@
 # Hi, I'm Steve (Seongho) Yoo! 👋
 
 ## Contacts
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:sy4209@nyu.edu)
+[![NYU Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:sy4209@nyu.edu)
+[![Gmail](https://img.shields.io/badge/Email-Contact-informational)](mailto:seonghoyu11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seongho-yoo-06a821328/)
 
 ## About Me
