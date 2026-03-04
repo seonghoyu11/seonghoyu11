@@ -9,7 +9,7 @@
 - Third-year **Computer Science** Student at New York University, Courant Institute
 - Interested in Artificial Intelligence, Software Engineering, and Machine Learning
 
-## Currently Learning...
+## Currently Taking...
 - CSCI-UA 472 (Artificial Intelligence)
 - CSCI-UA 474 (Software Engineering
 - MATH-UA 185 (Probability and Statistics)
@@ -19,6 +19,9 @@
 - CSCI-UA 201 (Computer Systems Organization)
 - CS-UY 1134 (Data Structures and Algorithms)
 - MATH-UA 140 (Linear Algebra)
+
+## Projects
+- [**Sips!**](https://github.com/swe-students-spring2026/2-web-app-orbit_owls) from CSCI-UA 474
 
 ## Tech Stacks
 ### Languages
