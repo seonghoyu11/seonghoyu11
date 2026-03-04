@@ -7,6 +7,7 @@
 
 ## About Me
 - Third-year **Computer Science** Student at New York University, Courant Institute
+- Major GPA 3.933/4.0
 - Interested in Artificial Intelligence, Software Engineering, and Machine Learning
 
 ## Currently Taking...
@@ -42,6 +43,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
+## P.S.
+- Fluent in 🇰🇷/🇺🇸
+- Seoul -> Portland -> Seoul -> St. Louis -> 📍New York
 <!--
 **seonghoyu11/seonghoyu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
