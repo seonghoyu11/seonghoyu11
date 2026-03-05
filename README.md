@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Seongho%20Yoo&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Seongho%20(Steve)%20Yoo&fontSize=40&fontColor=ffffff"/>
 
 # Hi, I'm Steve (Seongho) Yoo! 👋
 
