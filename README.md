@@ -80,13 +80,7 @@ Tech used:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoyu11&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoyu11&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoyu11)]
 
 ---
 
