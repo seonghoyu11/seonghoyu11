@@ -2,87 +2,52 @@
 
 # Hi, I'm Steve (Seongho) Yoo! 👋
 
-## 🎓 About Me
-- Third-year **Computer Science** student at **New York University (Courant Institute)**
-- Major GPA **3.933 / 4.0**
-- Interested in **Artificial Intelligence, Machine Learning, and Software Engineering**
-- Planning to pursue **graduate studies in AI / ML**
+## Contacts
+- [![NYU Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:sy4209@nyu.edu)
+- [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seonghoyu11@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seongho-yoo-06a821328/)
 
----
+## About Me
+- Third-year **Computer Science** Student at New York University, Courant Institute
+- Major GPA 3.933/4.0
+- Interested in Artificial Intelligence, Software Engineering, and Machine Learning
 
-## 📬 Contacts
-[![NYU Email](https://img.shields.io/badge/Email-NYU%20Contact-2563EB?style=flat-square)](mailto:sy4209@nyu.edu)
-[![Gmail](https://img.shields.io/badge/Gmail-Personal-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seonghoyu11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongho-yoo-06a821328/)
+## Currently Taking...
+- CSCI-UA 472 (Artificial Intelligence)
+- CSCI-UA 474 (Software Engineering
+- MATH-UA 185 (Probability and Statistics)
 
----
+## Courses Taken So Far...
+- CSCI-UA 310 (Basic Algorithms)
+- CSCI-UA 201 (Computer Systems Organization)
+- CS-UY 1134 (Data Structures and Algorithms)
+- MATH-UA 140 (Linear Algebra)
 
-## 📚 Current Coursework
-- **CSCI-UA 472** – Artificial Intelligence  
-- **CSCI-UA 474** – Software Engineering  
-- **MATH-UA 185** – Probability and Statistics  
+## Projects
+- [**Sips!**](https://github.com/swe-students-spring2026/2-web-app-orbit_owls) from CSCI-UA 474
 
----
-
-## 📖 Completed Coursework
-- **CSCI-UA 310** – Basic Algorithms  
-- **CSCI-UA 201** – Computer Systems Organization  
-- **CS-UY 1134** – Data Structures and Algorithms  
-- **MATH-UA 140** – Linear Algebra  
-
----
-
-## 🧠 Research Interests
-- Machine Learning  
-- Deep Learning  
-- AI Systems    
-
----
-
-## 🚀 Projects
-
-### **Sips!**
-Web application built for **CSCI-UA 474 (Software Engineering)**
-
-🔗 Repo  
-https://github.com/swe-students-spring2026/2-web-app-orbit_owls
-
-Tech used:
-- HTML/CSS/Python
-- Flask
-- MongoDB
-
----
-
-## 🛠 Tech Stack
-
+## Tech Stacks
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
----
+### Tools / Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoyu11)]
-
----
+## P.S.
+- Fluent in 🇰🇷/🇺🇸
+- Seoul -> Portland -> Seoul -> St. Louis -> 📍New York
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
