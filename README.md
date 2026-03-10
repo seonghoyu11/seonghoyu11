@@ -51,9 +51,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
-## P.S.
-- Fluent in 🇰🇷/🇺🇸
-- Seoul -> Portland -> Seoul -> St. Louis -> 📍New York
 <!--
 **seonghoyu11/seonghoyu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
