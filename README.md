@@ -25,7 +25,7 @@
 
 ## Projects
 - [**Sips!**](https://github.com/swe-students-spring2026/2-web-app-orbit_owls) from CSCI-UA 474
-- [**DogCare**](https://github.com/swe-students-spring2026/3-package-jaguarundi), uploaded on PyPI, downloadable using `pip install DogCare`!
+- [**DogCare**](https://github.com/swe-students-spring2026/3-package-jaguarundi), uploaded on [**PyPI**](https://pypi.org/project/dogcare/0.0.1/), downloadable using `pip install DogCare`!
 
 ## Tech Stacks
 ### Languages
