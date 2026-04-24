@@ -16,15 +16,16 @@ Here is a link to my portfolio! [**Link**](https://steveseonghoyoo.vercel.app/)
 - Interested in Artificial Intelligence, Software Engineering, and Machine Learning
 
 ## Currently Taking...
-- CSCI-UA 472 (Artificial Intelligence)
-- CSCI-UA 474 (Software Engineering
-- MATH-UA 185 (Probability and Statistics)
+- CSCI-UA 202 (Operating Systems)
+- CSCI-UA 473 (Fundamentals of Machine Learning)
 
-## Courses Taken So Far...
+## Core Courses Taken So Far...
 - CSCI-UA 310 (Basic Algorithms)
 - CSCI-UA 201 (Computer Systems Organization)
 - CS-UY 1134 (Data Structures and Algorithms)
 - MATH-UA 140 (Linear Algebra)
+- CSCI-UA 472 (Artificial Intelligence)
+- CSCI-UA 474 (Software Engineering)
 
 ## Projects
 - [**Sips!**](https://github.com/swe-students-spring2026/2-web-app-orbit_owls) from CSCI-UA 474
