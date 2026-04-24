@@ -28,7 +28,7 @@ Here is a link to my portfolio! [**Link**](https://steveseonghoyoo.vercel.app/)
 - CSCI-UA 474 (Software Engineering)
 
 ## Projects
-- [**Sips!**](https://github.com/swe-students-spring2026/2-web-app-orbit_owls) from CSCI-UA 474
+- [**Sips!**](https://github.com/swe-students-spring2026/2-web-app-orbit_owls), [**FocusFrame**](https://github.com/swe-students-spring2026/4-containers-terminal_titans) from CSCI-UA 474
 - [**DogCare**](https://github.com/swe-students-spring2026/3-package-jaguarundi), uploaded on [**PyPI**](https://pypi.org/project/dogcare/0.0.1/), downloadable using `pip install DogCare`!
 
 ## Tech Stacks
