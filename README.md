@@ -28,6 +28,8 @@ Here is a link to my portfolio! [**Link**](https://steveseonghoyoo.vercel.app/)
 - CSCI-UA 474 (Software Engineering)
 
 ## Projects
+- [**DutyCompass**](https://github.com/seonghoyu11/military-service-rag), a RAG-based chatbot for Korean Overseas Conscripts
+ 
 - [**Sips!**](https://github.com/seonghoyu11/sips), [**FocusFrame**](https://github.com/seonghoyu11/focusframe), [**Moodify**](https://github.com/seonghoyu11/moodify) from CSCI-UA 474
 - [**DogCare**](https://github.com/seonghoyu11/dogcare), uploaded on [**PyPI**](https://pypi.org/project/dogcare/0.0.1/), downloadable using `pip install DogCare`!
 
